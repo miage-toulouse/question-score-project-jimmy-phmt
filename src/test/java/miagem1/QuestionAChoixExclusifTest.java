@@ -14,6 +14,7 @@ public class QuestionAChoixExclusifTest {
         uneQuestion = new QuestionAChoixExclusif("un énoncé",2);
     }
 
+
     @Test
     public void testgetEnonce() {
         // when : on demande l'énoncé à la question
